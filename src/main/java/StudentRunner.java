@@ -6,6 +6,7 @@ public class StudentRunner
     public static void main(String[] args)
     {
         System.out.println("We are in jenkins");
+        System.out.println("We are in jenkins");
 
     }
   }
